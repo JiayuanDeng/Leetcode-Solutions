@@ -1,6 +1,6 @@
 # Leetcode Solutions in Java
 ### Algorithm
-| # | Title | Solution |
+| # | Problem | Solution |
 |---| ----- | -------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](/Java/001 Two Sum.java)|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](/Java/002 Add Two Numbers.java)|
@@ -19,7 +19,7 @@
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](/Java/022 Generate Parentheses.java)|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Java](/Java/023 Merge k Sorted Lists.java)|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](/Java/042 Trapping Rain Water.java)|
-|50|[Pow(x, n)](https://leetcode.com/problems/powx,-n/)|[Java](/Java/050 Pow(x, n).java)|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](/Java/050 Pow(x, n).java)|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](/Java/054 Spiral Matrix.java)|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](/Java/056 Merge Intervals.java)|
 |56|[Valid Number](https://leetcode.com/problems/valid-number/)|[Java](/Java/056 Valid Number.java)|
