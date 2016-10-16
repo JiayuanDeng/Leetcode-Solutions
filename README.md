@@ -1,4 +1,5 @@
 # Leetcode Solutions in Java
+### Algorithm
 | # | Title | Solution |
 |---| ----- | -------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](/Java/001 Two Sum.java)|
