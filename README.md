@@ -1,5 +1,5 @@
 # Leetcode Solutions in Java
-#1 [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](/Java/001 Two Sum.java)
+- 1 [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](/Java/001 Two Sum.java)
 #2 [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](/Java/002 Add Two Numbers.java)
 #3 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](/Java/003 Longest Substring Without Repeating Characters.java)
 #4 [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](/Java/004 Median of Two Sorted Arrays.java)
