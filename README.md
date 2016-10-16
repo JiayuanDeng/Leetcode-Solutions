@@ -1,1 +1,2 @@
-# ideal-octo-sniffle
+# Leetcode Solutions in Java
+## Table of content
