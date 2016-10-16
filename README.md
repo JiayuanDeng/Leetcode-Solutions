@@ -27,4 +27,5 @@
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](/Java/070 Climbing Stairs.java)|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java](/Java/146 LRU Cache.java)|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Java](/Java/200 Number of Islands.java)|
+|288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/)|[Java](/Java/288 Unique Word Abbreviation.java)|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|[Java](/Java/388 Longest Absolute File Path.java)|
