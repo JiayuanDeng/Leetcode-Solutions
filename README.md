@@ -26,6 +26,8 @@
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](/Java/066 Plus One.java)|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](/Java/070 Climbing Stairs.java)|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java](/Java/146 LRU Cache.java)|
+|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|[Java](/Java/163 Missing Ranges.java)|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Java](/Java/200 Number of Islands.java)|
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Java](/Java/228 Summary Ranges.java)|
 |288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/)|[Java](/Java/288 Unique Word Abbreviation.java)|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|[Java](/Java/388 Longest Absolute File Path.java)|
