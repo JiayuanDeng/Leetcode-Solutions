@@ -29,5 +29,6 @@
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|[Java](/Java/163 Missing Ranges.java)|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Java](/Java/200 Number of Islands.java)|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Java](/Java/228 Summary Ranges.java)|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Java](/Java/279 Perfect Squares.java)|
 |288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/)|[Java](/Java/288 Unique Word Abbreviation.java)|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|[Java](/Java/388 Longest Absolute File Path.java)|
